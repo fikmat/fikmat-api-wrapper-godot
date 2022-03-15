@@ -1,5 +1,5 @@
 # Fikmat
-Simple Godot wrapper for [Fikmat API](https://github.com/fikmatt/fikmat-api)
+Simple Godot wrapper for [Fikmat API](https://github.com/fikmat/fikmat-api)
 It deals with request sending automatically, you just update the data and they will be processed with next request in queue.
 
 ### How to use
