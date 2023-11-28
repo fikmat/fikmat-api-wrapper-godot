@@ -1,7 +1,7 @@
 extends Node
 
 const API_URL = "http://localhost:8020/api"
-const FREQUENCY = 1.0/30 # max 30 requests per second
+const FREQUENCY = 1.0/10 # max 10 requests per second
 
 var current_data := {}
 var dirty := false

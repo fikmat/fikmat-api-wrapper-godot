@@ -15,8 +15,4 @@ https://docs.godotengine.org/en/stable/classes/class_dictionary.html
 # led strips
 var colors = [[255, 0, 0], [0, 255, 0], [0, 0, 255]]
 FikApi.set_data({ "led_right": colors, "led_left": colors })
-
-# vibrations
-FikApi.set_data({ "vibrate": 99 })
-
 ```
